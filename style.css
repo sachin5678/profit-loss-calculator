@@ -16,6 +16,8 @@ label {
   display: block;
   margin: auto;
   font-size: 1.3rem;
+  /* padding-left: -100px; */
+  /* padding-right: 2000px; */
 }
 #output-box {
   margin: auto;
