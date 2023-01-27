@@ -16,6 +16,13 @@ label {
   display: block;
   margin: auto;
   font-size: 1.3rem;
+  display: block;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
   /* padding-left: -100px; */
   /* padding-right: 2000px; */
 }
@@ -30,6 +37,9 @@ label {
 
   margin: auto;
 }
+output-btn :hover {
+  background-color: brown;
+}
 
 .label-wrapper {
   /* display: flex;
@@ -37,11 +47,17 @@ label {
   justify-content: center;
   align-items: center; */
   width: 10%;
+  width: fit-content;
   padding-bottom: 10px;
   /* background-color: rgb(230, 215, 229); */
   /* padding-left: 300px; */
   display: block;
   margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
   /* padding-top: 10px; */
   /* width: 100px;  */
 }
